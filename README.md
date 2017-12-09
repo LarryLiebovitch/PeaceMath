@@ -21,7 +21,7 @@ Run Python Scripts in this order:
 
 	3. orange_V_4.py
 
-The data files:
+The data files should be in the same directory of the programs:
   - b8.txt, btextbxy8.txt, c8.txt, ic8.txt, m8.txt
   - b105.txt, btextbxy105.txt, c105.txt, ic105.txt, m105.txt
   - 111.txt, btextbxy111.txt, c111.txt, ic111.txt, m111.txt
