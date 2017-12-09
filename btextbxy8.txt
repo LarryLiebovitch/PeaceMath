@@ -1,0 +1,1 @@
++ mem	yellow	0.13	3.21	0.51	2.67- mem	gray	0.13	4.59	0.51	2.67+ expect	yellow	6.69	3.21	0.51	2.67- expect	gray	6.69	4.59	0.51	2.67PIR	yellow	4.31	3.555	0.51	1.04NIR	gray	4.31	4.245	0.51	1.04
