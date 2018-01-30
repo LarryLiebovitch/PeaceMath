@@ -17,9 +17,9 @@ Run Python Scripts in this order:
 
 	1. data.py (this only needs to be done once)
 
-	2. orangeclass_V_4.py
+	2. orangeclass_V_3efix.py
 
-	3. orange_V_4.py
+	3. orange_V_3efix.py
 
 The data files should be in the same directory of the programs:
   - b8.txt, btextbxy8.txt, c8.txt, ic8.txt, m8.txt
