@@ -29,9 +29,9 @@ The data files should be in the same directory of the programs:
 When asked for "ONLY NUMBER n and I will find cn.txt, etc. (#/a, Def=a)"
 
 	type either:
-	-8 (return)
-	-105 (return
-	-111 (return)
+	8 (return)
+	105 (return
+	111 (return)
 
 When asked for "Want to CHANGE parameters (y/n), def=n"
 	
