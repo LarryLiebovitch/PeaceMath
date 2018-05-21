@@ -9,6 +9,11 @@ Liebovitch, LS, Coleman PT, Futran D, Lee D, Lichter T, Burgess N, Maksumov D, a
 **VIDEO OF PROGRAM USE**
 https://drive.google.com/drive/u/0/folders/0B3t7HoVL1Ct7dGtqX3JkSDE2T00
 
+**LATEST VERSIONS ARE:**
+data.py
+teal.py
+tealclass.py
+
 #
 ### HOW TO RUN THESE PROGRAMS
 
@@ -17,14 +22,15 @@ Run Python Scripts in this order:
 
 	1. data.py (this only needs to be done once)
 
-	2. orangeclass_V_3efix.py
+	2. tealclass.py
 
-	3. orange_V_3efix.py
+	3. teal.py
 
 The data files should be in the same directory of the programs:
   b8.txt, btextbxy8.txt, c8.txt, ic8.txt, m8.txt
   b105.txt, btextbxy105.txt, c105.txt, ic105.txt, m105.txt
-  111.txt, btextbxy111.txt, c111.txt, ic111.txt, m111.txt
+  b111.txt, btextbxy111.txt, c111.txt, ic111.txt, m111.txt
+  b202.txt, btextbxy202.txt, c202.txt, ic202.txt, m202.txt
 
 When asked for "ONLY NUMBER n and I will find cn.txt, etc. (#/a, Def=a)"
 
@@ -32,6 +38,7 @@ When asked for "ONLY NUMBER n and I will find cn.txt, etc. (#/a, Def=a)"
 	8 (return)
 	105 (return
 	111 (return)
+	202 (return)
 
 When asked for "Want to CHANGE parameters (y/n), def=n"
 	
