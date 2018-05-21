@@ -10,9 +10,12 @@ Liebovitch, LS, Coleman PT, Futran D, Lee D, Lichter T, Burgess N, Maksumov D, a
 https://drive.google.com/drive/u/0/folders/0B3t7HoVL1Ct7dGtqX3JkSDE2T00
 
 **LATEST VERSIONS ARE:**
-data.py
-teal.py
-tealclass.py
+	
+	1. data.py
+	
+	2. teal.py
+	
+	3. tealclass.py
 
 #
 ### HOW TO RUN THESE PROGRAMS
