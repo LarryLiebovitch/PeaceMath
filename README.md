@@ -48,7 +48,7 @@ When asked for "Want to CHANGE parameters (y/n), def=n"
 	type: (return)
 
 
-NOTE: for OS10.9.5 or Linux the programs should run, but for WINDOWS you may need to change the comment in orangeclass APP: 
+NOTE: for OS10.9.5 or Linux the programs should run, but for WINDOWS you may need to change the comment in tealclass.py class App: 
 
         # self.mainloop() TO THE EXECUTABLE STATEMENT self.root.mainloop()
 	
