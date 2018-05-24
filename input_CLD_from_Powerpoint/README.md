@@ -2,7 +2,7 @@
 
 This program generates the 5 input files needed for the programs **data.py**, **teal.py**, and **tealclass.py** that create the GUI to integrate ordinary differential equations (ODEs), display the results, and change the initial conditions or interactions between variables
 
-Sample files, named below, are included in the folder:sample_files
+Sample files, named below, are included in the folder: **sample_files**
 
 ## Instructions:
 
