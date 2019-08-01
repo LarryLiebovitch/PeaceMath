@@ -17,6 +17,12 @@ https://drive.google.com/drive/u/0/folders/0B3t7HoVL1Ct7dGtqX3JkSDE2T00
 	
 	3. tealclass.py
 
+**NOTE:** due to changes in event handling in matplotlib and tkinter in Python 3.7, the following files (with small changes) have been confirmed to work in Python 3.7.1 and should be used instead of those listed above.
+	
+	2. teal_37.py
+	
+	3. tealclass_37.py
+
 #
 ### HOW TO RUN THESE PROGRAMS
 
