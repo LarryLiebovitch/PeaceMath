@@ -3,8 +3,9 @@
 
 coded in Python 3.4.1 with Tkinter
 
-**MATHEMATICAL MODEL**
-Liebovitch, LS, Coleman PT, Futran D, Lee D, Lichter T, Burgess N, Maksumov D, and Ripla C. (in press). Modeling the dynamics of sustainable peace. In U. Strawinska-Zanko and L. S. Liebovitch (Eds.), Mathematical Modeling of Social Relationships, New York, NY, Springer.
+**MATHEMATICAL MODEL REFERENCES**	
+	1. Liebovitch, LS, Coleman PT, Futran D, Lee D, Lichter T, Burgess N, Maksumov D, and Ripla C. (in press). Modeling the dynamics of sustainable peace. In U. Strawinska-Zanko and L. S. Liebovitch (Eds.), Mathematical Modeling of Social Relationships, New York, NY, Springer.
+	2. L. S. Liebovitch, P. T. Coleman, A. Bechhofer, C. Colon, J. Donahue, C. Eisenbach, L. Guzman-Vargas, D. Jacobs, A. Khan, C. Li, D. Maksumov, J. Mucia, M. Persaud, M. Salimi, L. Schweiger, and Q. Wang. 2019. Complexity analysis of sustainable peace: mathematical models and data science measurements. New Journal of Physics, Published 8 July 2019. https://iopscience.iop.org/article/10.1088/1367-2630/ab2a96.
 
 **VIDEO OF PROGRAM USE**
 https://drive.google.com/drive/u/0/folders/0B3t7HoVL1Ct7dGtqX3JkSDE2T00
